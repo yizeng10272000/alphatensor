@@ -1,9 +1,0 @@
-The process that open through bash in anaconda prompt
-
-code for the environment: conda activate myenv
-
-open the jupyter notebook: jupyter notebook
-
-change the workspace: cd C:\Users\Yizen\OneDrive\Documents\Study\Thesis\code\alphatensor
-
-run the code: python -m alphatensor.recombination.example
